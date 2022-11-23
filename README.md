@@ -1,9 +1,10 @@
-Hi, my name is Thomas. I am a French-American (bilangual) and below are some things about me.
+Hey there 😃, my name is Thomas and I'm looking for roles in web development.
 
-**Interests**: Programming, Decentraliazed Technologies, and Economics
+On my Github, you will mainly find my recent web development code (most of which is currently practice exercises). My academic work is private for copyright reasons.
 
-**What am I currently working on?**
-The Odin Project (Open-Source and Free Curriculum) 
-Zombie Factory (Open Source and Free Curriculum)
+**My experience can be summed up as:**  
+2 years data engineering (academic)  
+3 years software development (professional)  
+6 months self-taught web development
 
 📫 Feel Free to reach me at tom.hervieu@gmail.com
