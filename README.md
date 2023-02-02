@@ -1,6 +1,6 @@
-Hey there 😃, my name is Thomas and I'm looking for roles in web development.
+Hey there 😃, my name is Thomas but I sometimes go by Tom
 
-On my Github, you will mainly find my recent web development code (most of which is currently practice exercises). My academic work is private for copyright reasons.
+Searching for roles in data eng/ web development / general programming
 
 **My programming experience can be summed up as:**  
 2 years data engineering (Georgia Tech)  
