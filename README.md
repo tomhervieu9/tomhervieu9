@@ -8,4 +8,4 @@ Hey there 😃, my name is Thomas but I sometimes go by Tom.
 
 - 2 years TypeScript/React/PixiJS Game Developer
 
-📫 Feel Free to reach me at tom.hervieu@gmail.com
+📫 Feel free to reach me at tom.hervieu@gmail.com
