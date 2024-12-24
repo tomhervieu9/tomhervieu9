@@ -1,10 +1,8 @@
-Hey there 😃, my name is Thomas but I sometimes go by Tom
-
-Searching for roles in data eng/ web development / general programming (especially if crypto related)
+Hey there 😃, my name is Thomas but I sometimes go by Tom.
 
 **My programming experience can be summed up as:**  
-2 years data engineering (Georgia Tech)  
-3 years software development (PlayAGS)  
-6 months web development (The Odin Project)
+2 years data engineering at Georgia Tech
+3 years C# game SDK developer 
+2 years TypeScript/React/PixiJS Game Developer
 
 📫 Feel Free to reach me at tom.hervieu@gmail.com
