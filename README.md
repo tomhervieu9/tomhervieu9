@@ -1,11 +1,15 @@
-Hey there 😃, my name is Thomas but I sometimes go by Tom.
+Hey there 😃, my name is Thomas, but I frequently go by Tom.
 
-**My programming experience can be summed up as:**  
+**Values I hold dear when building:**
+- Think on first-principles (breaking things down into their truest nature)
+- Plan by working backwards from the perfect UX
+- Unique naming is vital for coordination and communication
+- Comments communicate intent and context that variable names cannot always convey
+- Small amounts add up, tiny amounts don't - optimizations don't always win over legibility and simplicity
 
-- 2 years data engineering at Georgia Tech
-
-- 3 years C# game SDK developer 
-
-- 2 years TypeScript/React/PixiJS Game Developer
+**A high-level view of my programming experience:**  
+- 2 years data engineering at Georgia Tech (Python, NumPy, Pandas, D3.js)
+- 3 years Software Engineer (C#, .NET, SQL, TortoiseSVN)
+- 3 years Frontend Software Engineer (TypeScript, React, Electron, Node.js, GraphQL, Nx)
 
 📫 Feel free to reach me at tom.hervieu@gmail.com
