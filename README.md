@@ -10,6 +10,9 @@ Hey there 😃, my name is Thomas, but I frequently go by Tom.
 **A high-level view of my programming experience:**  
 - 2 years data engineering at Georgia Tech (Python, NumPy, Pandas, D3.js)
 - 3 years Software Engineer (C#, .NET, SQL, TortoiseSVN)
-- 3 years Frontend Software Engineer (TypeScript, React, Electron, Node.js, GraphQL, Nx)
+- 3 years (and counting) Frontend Software Engineer (TypeScript, React, Electron, Node.js, GraphQL, Nx)
+
+** What I am working on now at home:**
+- Experimenting with new technologies: Vite, Tailwind, Postgres, Next.js, Tanstack Start/Query, and more!
 
 📫 Feel free to reach me at tom.hervieu@gmail.com
