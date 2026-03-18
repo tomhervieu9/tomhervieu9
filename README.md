@@ -1,18 +1,21 @@
 Hey there 😃, my name is Thomas, but I frequently go by Tom.
 
 **My current building philosophies:**
-- First-principles thinking (breaking things down into their truest nature)
-- Planning by working backwards from the perfect UX
-- Unique naming is vital for coordination and communication
-- Comments communicate intent and context that variable names cannot always convey
-- Small amounts add up, tiny amounts don't - high-level workflow optimizations matter much more
+- Using first-principles thinking, I breaking things down into their truest nature.
+- Always plan backwards from the perfect UX.
+- Unique naming is vital for coordination and also for searchability
+- Comments communicate intent by preserving precious in-the-moment realizations.
+- Small amounts add up, tiny amounts don't - there is more leverage to be gained from high-level workflows.
 
 **A high-level view of my programming experience:**  
-- 2 years data engineering at Georgia Tech (Python, NumPy, Pandas, D3.js)
-- 3 years Software Engineer (C#, .NET, SQL, TortoiseSVN)
-- 3 years (and counting) Frontend Software Engineer (TypeScript, React, Electron, Node.js, GraphQL, Nx)
+- Bachelor @ Georgia Tech - 4 years applied math + 2 years data engineering (Python, NumPy, Pandas, D3.js)
+- Game Dev @ AGS 2.5 years Software Engineer (C#, .NET, SQL, TortoiseSVN)
+- Game Dev @ MahiGaming 3 years Frontend Software Engineer (TypeScript, React, Electron, Node.js, GraphQL, Nx)
+- Fullstack Data Engineer @ Arcop (Arby's Co-op) [Supply Chain Backend for Arby's] (Palantir (Foundry), TypeScript, Python, PySpark)
 
-** What I am working on now at home:**
-- Experimenting with new technologies: Vite, Tailwind, Postgres, Next.js, Tanstack Start/Query, and more!
+** Core Projects:**
+- Nuance
+- FlowBased
+- etc...
 
 📫 Feel free to reach me at tom.hervieu@gmail.com
