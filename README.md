@@ -5,7 +5,7 @@ Hey there 😃, my name is Thomas, but I frequently go by Tom.
 - Always plan backwards from the perfect UX.
 - Unique naming is vital for coordination and also for searchability
 - Comments communicate intent by preserving precious in-the-moment realizations.
-- Small amounts add up, tiny amounts don't - there is more leverage to be gained from high-level workflows.
+- Small amounts add up, tiny amounts don't - there is more leverage to be gained from high-level workflows optimizations.
 
 **A high-level view of my programming experience:**  
 - Bachelor @ Georgia Tech - 4 years applied math + 2 years data engineering (Python, NumPy, Pandas, D3.js)
